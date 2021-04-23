@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ron2702/nodejs-course#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "moment": "^2.29.1"
   }
 }
